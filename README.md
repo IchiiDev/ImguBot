@@ -17,7 +17,7 @@
   <a href="https://code.visualstudio.com/docs/?dv=win" style="padding-left:10px">
     <img src="https://img.shields.io/badge/Made%20With-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code">
   </a>
-    <a href="https://code.visualstudio.com/docs/?dv=win" style="padding-left:10px">
+    <a href="https://discord.gg/cUfCJZ" style="padding-left:10px">
     <img src="https://img.shields.io/badge/Join-ImguBot%20Support-7289DA?style=for-the-badge&logo=Discord">
   </a>
   <br>
