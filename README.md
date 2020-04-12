@@ -1,7 +1,7 @@
 <div align="center">
   <img src=" https://i.imgur.com/MbAv1KQ.png" align="center" style="width:60%;height:60%">
   <br>
-  <strong><i>A uploading to imgur bot for Discord.</i></strong>
+  <strong><i>A bot to upload images quickly on Imgur.</i></strong>
   <br>
   <br>
 
@@ -26,14 +26,14 @@
 
 
 # What is ImguBot ?
-ImguBot is a bot made for uploading images to [imgur](https://imgur.com). It can be usefull for servers that needs to upload many images quickly like an anti-raid service. It is simply to use and handle sanding attachments images.
+ImguBot is a bot made to upload images to [imgur](https://imgur.com). It can be usefull for servers that needs to upload many images quickly . It is simple to use and handle sending attachments images.
 
 It's also free to use and no commands are requiring paid features. Feel free to use it and share it !
 
 # Features
-Actually, there is only a single feature in this bot, and it's the upload command, it upload an image to imgur.
+Actually, there is only one single feature in this bot, and it's the upload to imgur command.
 
-Manay new features are incoming so stay here and star the repository if you want news from the bot.
+Many new features are coming so stay here and star the repository if you want any news from the bot.
 
 If you want to create your own feature or command, feel free to fork my work and make a pull request :D
 
@@ -41,7 +41,7 @@ If you want to create your own feature or command, feel free to fork my work and
 Sure, i only ask you to credit me and to keep your repository public and forked of mine. I also ask you to do no edit the embed field `line 15 of info.js` that says `.addField("ImguBot code by Ichii#5999", "Original bot code was made by Ichii#5999, you can find it here at the [ImguBot Repository](https://github.com/IchiiSama/ImguBot)")` if you edit or delete this line or the info.js, i will ask you to rewrite it. If you accidently deleted it, i can send you the original file on demand by DM.
 
 # Special thanks
-I need to say a huge thank you to two poeples. First, we have **iTrooz_** a friend that autorised me to use it's core to gain much time in this project. And in a second time, **UnGameur.xls.** He sent me his base to the imgur upload command and i've edited it and rewrited it. So i wanted to thank them for their work :D 
+I need to say a huge thank you to two peoples. First, we have **iTrooz_** a friend that autorised me to use it's core to gain so much time in this project. And in a second time, **UnGameur.xls.** He sent me his base to the imgur upload command and i've edited it and rewrited it. So i wanted to thank them for their work :D 
 
 
 <p align="center"><strong><i>Copyright © 2019, IchiiSama</i></strong></p>
