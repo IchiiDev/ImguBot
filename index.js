@@ -1,5 +1,5 @@
 // <BASICALS>
-console.log("THIS CODE IS OUTDATED AND NOT WELL WRITTEN IN ENGLISH, I DO NOT RECOMMEND YOU TO RUN IT FOR A PUBLIC BOT")
+console.warn("THIS CODE IS OUTDATED AND NOT WELL WRITTEN IN ENGLISH, I DO NOT RECOMMEND YOU TO RUN IT FOR A PUBLIC BOT")
 console.log("Connexion en cours...");
 const { Client } = require('discord.js');
 bot = new Client();
